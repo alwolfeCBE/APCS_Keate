@@ -1,0 +1,86 @@
+type: edu
+files:
+  - name: src/QuadraticClient.java
+    visible: true
+    placeholders:
+      - offset: 276
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 276
+        initialized_from_dependency: false
+        encrypted_possible_answer: JE0WQyTvXpWcX+a0p3pPoayKmKJrQhIA9H0ziquUEHk=
+        selected: false
+        status: Unchecked
+      - offset: 439
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 439
+        initialized_from_dependency: false
+        encrypted_possible_answer: JE0WQyTvXpWcX+a0p3pPoayKmKJrQhIA9H0ziquUEHk=
+        selected: false
+        status: Unchecked
+      - offset: 602
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 602
+        initialized_from_dependency: false
+        encrypted_possible_answer: JE0WQyTvXpWcX+a0p3pPoayKmKJrQhIA9H0ziquUEHk=
+        selected: false
+        status: Unchecked
+      - offset: 709
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 709
+        initialized_from_dependency: false
+        encrypted_possible_answer: E9GoIY/0KZtl2UApyg9j2vsge0HavcbHFC7GPLk/14iS/aD7r5PZJbQ4dZhfxhJV
+        selected: false
+        status: Unchecked
+      - offset: 784
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 784
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFJj7pqJyxPCjZKaawo8cZixpFOSZgLnNADjl8NPDxp2v
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/QuadraticTest.java
+    visible: false
+    learner_created: false
+  - name: src/Quadratic.java
+    visible: true
+    placeholders:
+      - offset: 409
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 409
+        initialized_from_dependency: false
+        encrypted_possible_answer: keW56Q7rK92QpPPOv7anxhVh3NGSQfSyapW/S8Bs4efaTyHDjFgH1r/TLw4dniaEZbqF6KG8Lj6yPzEmK4Jx7A==
+        selected: false
+        status: Unchecked
+      - offset: 554
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 554
+        initialized_from_dependency: false
+        encrypted_possible_answer: qWtYihX8LKmi27gsKkOKVtjklx5Am2soqPypArFWtMNcDrQ8UAVHSyZpV5fXqfrNRShMypZe/Xk9HzcNEDP8sw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

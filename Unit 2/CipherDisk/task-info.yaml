@@ -1,0 +1,126 @@
+type: edu
+files:
+  - name: src/CipherDisk.java
+    visible: true
+    placeholders:
+      - offset: 908
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 908
+        initialized_from_dependency: false
+        encrypted_possible_answer: SH0hrxEy48HwfxDAG21pfT/I7zWGZSSZ+6jgtci3J24=
+        selected: false
+        status: Unchecked
+      - offset: 991
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 991
+        initialized_from_dependency: false
+        encrypted_possible_answer: zN35fKr/wOMj87RBgk3eQ80JcKLq0afS9KDBDbQ/niI=
+        selected: false
+        status: Unchecked
+      - offset: 1171
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1171
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7f6B84xM8RrRaW3KV9WPpcygEwhkA1qRulw9Gk/91Fk=
+        selected: false
+        status: Unchecked
+      - offset: 1306
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1306
+        initialized_from_dependency: false
+        encrypted_possible_answer: CbXJRN2qeyfEOQ6YpZBu8mH4VgO9YbfOgyN2wYmP6wVbmqhifeRb1pckBvj3kCjkBmyBpBW5ZdeCRnbDju/X6g==
+        selected: false
+        status: Unchecked
+      - offset: 1439
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1439
+        initialized_from_dependency: false
+        encrypted_possible_answer: 29pq3mUSBZwhDsJ9geFS+Q==
+        selected: false
+        status: Unchecked
+      - offset: 1602
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1602
+        initialized_from_dependency: false
+        encrypted_possible_answer: yw1myT1JJ4fIQgwC8wOR5w==
+        selected: false
+        status: Unchecked
+      - offset: 1691
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1691
+        initialized_from_dependency: false
+        encrypted_possible_answer: jXjtR/c77iLrdq8nswVtEJzK2hyNf/o60QQ2551TDCI=
+        selected: false
+        status: Unchecked
+      - offset: 1904
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1904
+        initialized_from_dependency: false
+        encrypted_possible_answer: LIBFgUzlwkyy7JiWkXjqX6eOXMAwfR8x58OBwEx5+FA=
+        selected: false
+        status: Unchecked
+      - offset: 2002
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2002
+        initialized_from_dependency: false
+        encrypted_possible_answer: SH0hrxEy48HwfxDAG21pfXSXXFvlJbAaaJjxLjebrvw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/CipherDiskTest.java
+    visible: false
+    learner_created: false
+  - name: src/CipherDiskClient.java
+    visible: true
+    placeholders:
+      - offset: 157
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 157
+        initialized_from_dependency: false
+        encrypted_possible_answer: wA87t+yI1phDU29om8YRBBt/UMWylsKrONhORZsuqyNNQo20ULoNYzRjZwdEMoQj
+        selected: false
+        status: Unchecked
+      - offset: 252
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 252
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFGOsf0JEQQedRyA03oNB1mNXg2KmAViJ0sc/scZEXxmiY3JNw26j4Rkg44RrPlGtfQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

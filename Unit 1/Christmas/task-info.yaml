@@ -1,0 +1,48 @@
+type: edu
+files:
+  - name: src/Christmas.java
+    visible: true
+    placeholders:
+      - offset: 444
+        length: 25
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 444
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZVuaMTWMepv7z9NrhwS8fKOo5LvehziNRvdrh4RICpM=
+        selected: true
+        status: Failed
+      - offset: 563
+        length: 21
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 548
+        initialized_from_dependency: false
+        encrypted_possible_answer: snSHp+adqQ9JrCSiAd4z/690r6UplLbPOYsOgk7Tr04=
+        selected: true
+        status: Failed
+      - offset: 688
+        length: 68
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 663
+        initialized_from_dependency: false
+        encrypted_possible_answer: DKB3Zjih2HwYNvxC0mulfP8O0j08+uxfRE3aaQ6GyM9lQe/JEZqtXUdodxMkSCB0uH3NO3sxvnAiXc93nqo81Q==
+        selected: true
+        status: Failed
+    learner_created: false
+  - name: test/ChristmasTest.java
+    visible: false
+    learner_created: false
+status: Failed
+feedback:
+  message: Your getDayOfTheWeek method does not work as intended. It does not state
+    Wednesday if December 1 is Sunday.
+  time: "Thu, 11 Jul 2024 23:00:32 UTC"
+  expected: Christmas is on Wednesday when December starts on a Sunday.
+  actual: Christmas is on Thursday when December starts on a Sunday.
+record: -1
+solution_hidden: true

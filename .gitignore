@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Unit 1/Christmas/build/
+/Unit 1/Christmas/out/
+/Unit 1/Christmas/out/production/classes/

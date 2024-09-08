@@ -1,0 +1,1004 @@
+type: theory
+files:
+  - name: src/MadLibsRevisited.java
+    visible: true
+    placeholders:
+      - offset: 1200
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1200
+        initialized_from_dependency: false
+        encrypted_possible_answer: sCSitKeRWFGAdGV0MwDjgtsunCB11je98eAePhwhysoUj72v4XCp5sr2tI2DxAs9A8VjmLYkwnAvU0EjIS1TLg==
+        selected: false
+        status: Unchecked
+      - offset: 1348
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1348
+        initialized_from_dependency: false
+        encrypted_possible_answer: sCSitKeRWFGAdGV0MwDjghbxVVlxu5RON+SvQZ2/geHnWw5XOUHD4y0hxDkWk4XGvINL+xC2aGLF4iwNrodqIhvvJIILfhvfifRpsFC+odQ=
+        selected: false
+        status: Unchecked
+      - offset: 1483
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1483
+        initialized_from_dependency: false
+        encrypted_possible_answer: sCSitKeRWFGAdGV0MwDjgsYVmk8TNr/YtudDQ6X16S55fFsjr/GvQK1oUnomChqJ0ykf4E33LG7kwaN/hQJwng==
+        selected: false
+        status: Unchecked
+      - offset: 1644
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1644
+        initialized_from_dependency: false
+        encrypted_possible_answer: sCSitKeRWFGAdGV0MwDjgvAsHW4EkV1Vy9SE2Q0FtWYi2laDIoWS6cgitr4cH7Bl81MHyPbgf5aj6TwTTck5H2U4mfkVk/koksI3kryeeS4=
+        selected: false
+        status: Unchecked
+      - offset: 1794
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1794
+        initialized_from_dependency: false
+        encrypted_possible_answer: sCSitKeRWFGAdGV0MwDjgqOuHyqjo2jO9ZJrWxpQt1yQx+axjWz96BIrwVEm5KCADGeO+ZYf+MSY/kt1/yPsrEtQcCHnC2o786pm46fQZkM=
+        selected: false
+        status: Unchecked
+      - offset: 1935
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1935
+        initialized_from_dependency: false
+        encrypted_possible_answer: sCSitKeRWFGAdGV0MwDjgpHsDN7v/VwzI2lNkF97MEYDMihq22eJMusfAqaPYnOf7SuZzFJyi9I03VrD/iHH0C77brzSvHcUpmR/cUXkldU=
+        selected: false
+        status: Unchecked
+      - offset: 2094
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2094
+        initialized_from_dependency: false
+        encrypted_possible_answer: sCSitKeRWFGAdGV0MwDjgiLDHQJJ6H/0/LDwIhSl/+E6ypH/gw+gs3yb9QBCUbvHnuZPS91bZ9bvUER+admPKuHYlCENi/S6OtpOd0GLLBY=
+        selected: false
+        status: Unchecked
+      - offset: 2239
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2239
+        initialized_from_dependency: false
+        encrypted_possible_answer: sCSitKeRWFGAdGV0MwDjgguD+bI7DqYPaGmWa6+g/cuONQFiESIBruv3SUhSQgKD2ixQkrBnzZ+3tmScw8T6kg==
+        selected: false
+        status: Unchecked
+      - offset: 2383
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2383
+        initialized_from_dependency: false
+        encrypted_possible_answer: sCSitKeRWFGAdGV0MwDjgjcyO8Z9AhdAhmFePifw38YMxGNhhHB3Xj9xsiix1SxX7HOQQoCIsQU/mshWAT+tb4KcU0S0FiZcyqQgSz9XprM=
+        selected: false
+        status: Unchecked
+      - offset: 2491
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2491
+        initialized_from_dependency: false
+        encrypted_possible_answer: mA/+Uemo9gM9d1FBGoZSeuZbw89kSdRsd6y9s2f9EKUlszXqucHmm4FejAt7nP6CZKTPZGZDaiYQ0vU1TBm0Qc/wy6G077cC0dChmGA617Pwk7rBIn0CIqUCpu4Po+HZ17yzgRMom2kGKLu6cXvLcccs4q92GqZzgtJ8XW3sGFxlWrN9xjNgCA6mSVzvtFNd5vDmN2Uh+9pGuXwVIQlyyNAy9p/LaK69jKbSAfUacipFw2WidSkW+NNHEvmz8tKx0QdexmhEnY6Icj1hx9JNDBgst14B9Vz9mYeZBKOkJsNu1wLdoZZksgMDzdVZf4qoQWhyeGkU+bgyIQJPYvc54zpKlT7D3iFX2jzDLdAgr5V5aGbXgb7C62oPDRu1V11YDqGDpvkx8hY8w6lfJ9yQy/dNljd1+AXLPzpVKyPOoh/yn8E02WXmoqYchhirntvMKNGaCMUa7vVKfYVEfn3SLX1/oDTzWbWZqbbKJwdsPVohqETNwycqksxeH/tWcHSRkByQXSwmfJjL7ab/rLlJDc7bk3SOIzjlekGSZzisdkLf2YM2a8qUIm8X2rGK9MsnzdGHbTvn0y9KFuQXecSAtK+zIFntKD1hg+0RCOuVXoM=
+        selected: false
+        status: Unchecked
+      - offset: 2682
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2682
+        initialized_from_dependency: false
+        encrypted_possible_answer: Pm2nDpVzolIIg8TkMbopPg==
+        selected: false
+        status: Unchecked
+      - offset: 2866
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2866
+        initialized_from_dependency: false
+        encrypted_possible_answer: 39HmA1ZV6zTAndbdFBtTEQ==
+        selected: false
+        status: Unchecked
+      - offset: 3018
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3018
+        initialized_from_dependency: false
+        encrypted_possible_answer: sZK7TDLkK0NtQjVCsI5B8RioRknxdcxftbp4/efFf3OcUy2CD5Hm9d8sG6SfzhM7
+        selected: false
+        status: Unchecked
+      - offset: 3119
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3119
+        initialized_from_dependency: false
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64NUgmgI3y77uM6aXS3GTxFGFjOgBctvp8iqq0C71dcWofvBjWJkDZk1ZciwR70s1FUvWD76xoRlEAQWhgSP0wuM=
+        selected: false
+        status: Unchecked
+      - offset: 3203
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3203
+        initialized_from_dependency: false
+        encrypted_possible_answer: z9JiABrYMS9WbIqn/wyY2E219rC9bi45YDcHycD8B9J7jCxhB0OGVyz32+o7rnLA
+        selected: false
+        status: Unchecked
+      - offset: 3280
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3280
+        initialized_from_dependency: false
+        encrypted_possible_answer: eJptrevcVOCve9qZ2T/CSg==
+        selected: false
+        status: Unchecked
+      - offset: 3396
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3396
+        initialized_from_dependency: false
+        encrypted_possible_answer: vtqpt5umOHHvB2a+rXOHlICyXDqaHBxMRyTYQq5afQc=
+        selected: false
+        status: Unchecked
+      - offset: 3485
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3485
+        initialized_from_dependency: false
+        encrypted_possible_answer: 99vxXvLSJgPTiXzJQTxi3Q==
+        selected: false
+        status: Unchecked
+      - offset: 3657
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3657
+        initialized_from_dependency: false
+        encrypted_possible_answer: mSjTgUc9XWbKZuvl3v1kkWz8U/vsStv3Pxr7rnA0MBAQJvMTpH2hQjEruyabEQXr
+        selected: false
+        status: Unchecked
+      - offset: 3777
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3777
+        initialized_from_dependency: false
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64GhZclaPRumnChOMFVnlXOdSgo4f1FT4qASxBieW4/ADZnMAb93W08UDxB1109atBpbgxqUgsLvwfwVwRPiIwnbA2oacBtlnHLcylsMWV3Yy
+        selected: false
+        status: Unchecked
+      - offset: 3873
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3873
+        initialized_from_dependency: false
+        encrypted_possible_answer: vtqpt5umOHHvB2a+rXOHlCsjvxR02u1oQSBHNtu0qTkjRudWWWDNJlH39mXIkHxILA0XkD6PNem/xECD+7BAyw==
+        selected: false
+        status: Unchecked
+      - offset: 3957
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3957
+        initialized_from_dependency: false
+        encrypted_possible_answer: eJptrevcVOCve9qZ2T/CSg==
+        selected: false
+        status: Unchecked
+      - offset: 4061
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4061
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6HSKfjRZ2UtkojXp7MR1blI+wXqymcQpLzFGyNjLeU4=
+        selected: false
+        status: Unchecked
+      - offset: 4136
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4136
+        initialized_from_dependency: false
+        encrypted_possible_answer: 99vxXvLSJgPTiXzJQTxi3Q==
+        selected: false
+        status: Unchecked
+      - offset: 4289
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4289
+        initialized_from_dependency: false
+        encrypted_possible_answer: IiPsjOGHIAfGGeUhmYoh/4P9f83+q6BybYUyzo9GEQsQ2WjFkvIW/iJBLfBgEPWB
+        selected: false
+        status: Unchecked
+      - offset: 4390
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4390
+        initialized_from_dependency: false
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64AWCQQlyevRSUu1R2kr/g70px7ShgvhaTIGncQPMdwsdSpai84eO3YlqoPKyFCrmtHOK5i5k6yh+Yd+ZlbWo12w=
+        selected: false
+        status: Unchecked
+      - offset: 4474
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4474
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6HSKfjRZ2UtkojXp7MR1bsFrHxwpsXh0YdTVQbft3j1Bs4e06bC2sgybTRU5PCHM
+        selected: false
+        status: Unchecked
+      - offset: 4551
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4551
+        initialized_from_dependency: false
+        encrypted_possible_answer: eJptrevcVOCve9qZ2T/CSg==
+        selected: false
+        status: Unchecked
+      - offset: 4677
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4677
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6HSKfjRZ2UtkojXp7MR1bp/QHE90yZtUy8UhUyaBxvJ02vF6xLgNsTHfB9oeBAal
+        selected: false
+        status: Unchecked
+      - offset: 4778
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4778
+        initialized_from_dependency: false
+        encrypted_possible_answer: 99vxXvLSJgPTiXzJQTxi3Q==
+        selected: false
+        status: Unchecked
+      - offset: 4967
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4967
+        initialized_from_dependency: false
+        encrypted_possible_answer: Dh1u8ICSkQs/rEmmkOmUAyD5e8/2UWXOvVOS+isEiNubY7sNdCg8DkPyOe2X/nnSc1YMdWsAZhCn/rGf03S3wQ==
+        selected: false
+        status: Unchecked
+      - offset: 5105
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5105
+        initialized_from_dependency: false
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64CGTCkwl3CU0bWZ5gbJOlQO66E3QpOfcurRUKo5w8dC30wI6sfs2UqfIX2Ke6PiCab5iQ9QFoomhyJ+kx6ugSvA5z+RpUYYhO09QEodRWTweRc+oqDnT7lBgPdK9fgX5DQ==
+        selected: false
+        status: Unchecked
+      - offset: 5211
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5211
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6HSKfjRZ2UtkojXp7MR1bjISu+i1RVLD45SvDEjvaVoD4jXRqNOjTxkOjKzSAatEIJjHDxVxQFJiABTOVUq6+A==
+        selected: false
+        status: Unchecked
+      - offset: 5303
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5303
+        initialized_from_dependency: false
+        encrypted_possible_answer: eJptrevcVOCve9qZ2T/CSg==
+        selected: false
+        status: Unchecked
+      - offset: 5417
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5417
+        initialized_from_dependency: false
+        encrypted_possible_answer: c6B/theqwTnHTEP/Phn0hTMQVKfXd5hcybTyN+tM/FM=
+        selected: false
+        status: Unchecked
+      - offset: 5502
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5502
+        initialized_from_dependency: false
+        encrypted_possible_answer: 99vxXvLSJgPTiXzJQTxi3Q==
+        selected: false
+        status: Unchecked
+      - offset: 5677
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5677
+        initialized_from_dependency: false
+        encrypted_possible_answer: yBaH3BR7EClHZnrALfvdOKJ5oeEfI2V/7lBy607w8tP6f7fgRw6rp5pSDgDttshm
+        selected: false
+        status: Unchecked
+      - offset: 5793
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5793
+        initialized_from_dependency: false
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64CCx3sqVskreVai+HMtwZnTYPkJ33GZEu8/TQ70/CzCwiDr716YtnXIQgPIC/IuI0dQL6MU8zeK7mhOoIlqmfaUp9pb6ih/nHDg1hRXMwc9G
+        selected: false
+        status: Unchecked
+      - offset: 5887
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5887
+        initialized_from_dependency: false
+        encrypted_possible_answer: c6B/theqwTnHTEP/Phn0hVopTKS6FHs7gq9H4uFiPVAzuU1uD00dIJVYTsgpZGEO
+        selected: false
+        status: Unchecked
+      - offset: 5969
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5969
+        initialized_from_dependency: false
+        encrypted_possible_answer: eJptrevcVOCve9qZ2T/CSg==
+        selected: false
+        status: Unchecked
+      - offset: 6077
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 6077
+        initialized_from_dependency: false
+        encrypted_possible_answer: c6B/theqwTnHTEP/Phn0hc898Z5ohkSK3avNVVzQgMc=
+        selected: false
+        status: Unchecked
+      - offset: 6156
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 6156
+        initialized_from_dependency: false
+        encrypted_possible_answer: 99vxXvLSJgPTiXzJQTxi3Q==
+        selected: false
+        status: Unchecked
+      - offset: 6315
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 6315
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2znBClVv+i+DnQJQm7MsGvanzq2ZB2gKcI0YQiYcjae4xq3nsaL9A6TysqTOUHlg
+        selected: false
+        status: Unchecked
+      - offset: 6421
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 6421
+        initialized_from_dependency: false
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64HZ+Dh5oAW41KJ60jWXCOelSf9TllePqFr76QFky6FOm2HsqZwzpxoU4efWJCMCLwSMH0tMpMQ5WE3PwNGAt3ZwsT92QypAb3RTkSfuSf6oC
+        selected: false
+        status: Unchecked
+      - offset: 6509
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 6509
+        initialized_from_dependency: false
+        encrypted_possible_answer: c6B/theqwTnHTEP/Phn0hSsa6JT+wT5Q0xvAWJAFMtE+aOuappeRWxQODQaEYxDI
+        selected: false
+        status: Unchecked
+      - offset: 6588
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 6588
+        initialized_from_dependency: false
+        encrypted_possible_answer: eJptrevcVOCve9qZ2T/CSg==
+        selected: false
+        status: Unchecked
+      - offset: 6708
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 6708
+        initialized_from_dependency: false
+        encrypted_possible_answer: j04KZrB1qIdZZmjYSLb0u9M/ixDkM2oVdrbesWAJ4lA=
+        selected: false
+        status: Unchecked
+      - offset: 6799
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 6799
+        initialized_from_dependency: false
+        encrypted_possible_answer: 99vxXvLSJgPTiXzJQTxi3Q==
+        selected: false
+        status: Unchecked
+      - offset: 6975
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 6975
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8pvTjX5E1QuW5uM/vu+0zpgfNracL5OOiS+G12JSe4MMLEh75aqO2brgA3Xio9XjJRay45d0Fh/om/FLmlnnUw==
+        selected: false
+        status: Unchecked
+      - offset: 7100
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 7100
+        initialized_from_dependency: false
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64OhH6ZB23ZHvlghFgmmklplPzELq9zoOG4Bm2ecI0RkBsTKc2fZRnQFXBmCQdcqnK5goS494OrPkGqeZOKTNYraenF9BT4dpZMmcqXjBA7RDro2hx8x/f1mpGHGmptSUoQ==
+        selected: false
+        status: Unchecked
+      - offset: 7201
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 7201
+        initialized_from_dependency: false
+        encrypted_possible_answer: j04KZrB1qIdZZmjYSLb0u1Uy0mt/3Khye2epA7EzML2ZugwC9TEL6JYHYCU1Ubku5JnOK5/CTpTSQu58V/TlxA==
+        selected: false
+        status: Unchecked
+      - offset: 7286
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 7286
+        initialized_from_dependency: false
+        encrypted_possible_answer: eJptrevcVOCve9qZ2T/CSg==
+        selected: false
+        status: Unchecked
+      - offset: 7392
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 7392
+        initialized_from_dependency: false
+        encrypted_possible_answer: vtqpt5umOHHvB2a+rXOHlI7N1kmhi1BPxWeHAuREMEI=
+        selected: false
+        status: Unchecked
+      - offset: 7469
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 7469
+        initialized_from_dependency: false
+        encrypted_possible_answer: 99vxXvLSJgPTiXzJQTxi3Q==
+        selected: false
+        status: Unchecked
+      - offset: 7624
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 7624
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2EoblZ54+fz98mu6svoyht5JP5vkxY8jIQ0gGNPVgURx1SoJIMjstFnvrB2N5dMr
+        selected: false
+        status: Unchecked
+      - offset: 7728
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 7728
+        initialized_from_dependency: false
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64PesIfjFrx/xyejufJ+bff9YIp+U8QcY1TukLEGrHepr/uj+39RE4dOL8LtU0uGgAc/VkpSCRGj2xhsvgeuH3Xg=
+        selected: false
+        status: Unchecked
+      - offset: 7814
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 7814
+        initialized_from_dependency: false
+        encrypted_possible_answer: vtqpt5umOHHvB2a+rXOHlNXu30YndKYUzh9qPwcFSB2YUNPNwDNaZ4tBi4LqmjQ2
+        selected: false
+        status: Unchecked
+      - offset: 7892
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 7892
+        initialized_from_dependency: false
+        encrypted_possible_answer: eJptrevcVOCve9qZ2T/CSg==
+        selected: false
+        status: Unchecked
+      - offset: 8004
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 8004
+        initialized_from_dependency: false
+        encrypted_possible_answer: Yqwc85mOQ0FFe5Nu5wlauLtwMZ3eEPOK+E50fqAbtrQ=
+        selected: false
+        status: Unchecked
+      - offset: 8088
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 8088
+        initialized_from_dependency: false
+        encrypted_possible_answer: 99vxXvLSJgPTiXzJQTxi3Q==
+        selected: false
+        status: Unchecked
+      - offset: 8253
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 8253
+        initialized_from_dependency: false
+        encrypted_possible_answer: +U0FjYQZx+TG589q6NAi281GRTvxWrPqxEDcwy/ZKeZAadN0FwDEfZDPumCEvNGs
+        selected: false
+        status: Unchecked
+      - offset: 8367
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 8367
+        initialized_from_dependency: false
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64HM6jNHw3iiE+NXO12OGSmV6d45FBbW/aEia/mZAAaSrpqnJEpFQcCemyM1vKbTiuQ0vIN1OR6lMrdtxJONWWZDzONhRF9lsifBeiHCt3tM5
+        selected: false
+        status: Unchecked
+      - offset: 8459
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 8459
+        initialized_from_dependency: false
+        encrypted_possible_answer: Yqwc85mOQ0FFe5Nu5wlauLt7Ucn9e2ZLV/GNzFcWD45C8pnrYOaU8UxyTBMn1xpq
+        selected: false
+        status: Unchecked
+      - offset: 8541
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 8541
+        initialized_from_dependency: false
+        encrypted_possible_answer: eJptrevcVOCve9qZ2T/CSg==
+        selected: false
+        status: Unchecked
+      - offset: 8586
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 8586
+        initialized_from_dependency: false
+        encrypted_possible_answer: 19gIOS5Z8RPV7VLfAUP7WA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/MadLibsRevisitedClient.java
+    visible: true
+    placeholders:
+      - offset: 430
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 430
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFFwRgYIlxsZXvXCSZvx4a31ui8bV+tyuDVS0thxEgViCG1ysI347RQRzthZS4H8anA==
+        selected: false
+        status: Unchecked
+      - offset: 503
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 503
+        initialized_from_dependency: false
+        encrypted_possible_answer: i7RX7AJnN//qsB5bJaT25IVvgGfkTKBKIckflIAsubQ=
+        selected: false
+        status: Unchecked
+      - offset: 555
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 555
+        initialized_from_dependency: false
+        encrypted_possible_answer: bslCxVvVmd9Z8tEOwvjSIKRPB7dSi/wROs4C2pYxtdc=
+        selected: false
+        status: Unchecked
+      - offset: 598
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 598
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4Yh6L+x3An+ZCWdScHl29Ls7Z+yqjwAJcSHVydhwy9qxynOGFCClqpQ2CwxO6NvS
+        selected: false
+        status: Unchecked
+      - offset: 777
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 777
+        initialized_from_dependency: false
+        encrypted_possible_answer: q6XArmcw8/XBmrM+tZeQGQ==
+        selected: false
+        status: Unchecked
+      - offset: 806
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 806
+        initialized_from_dependency: false
+        encrypted_possible_answer: d78FyGXQY3qPQN2+k4vNNy5R4xp7HyKe60LT0ESUhYvEgKnQGU/vQo+O1wTRV44n
+        selected: false
+        status: Unchecked
+      - offset: 989
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 989
+        initialized_from_dependency: false
+        encrypted_possible_answer: MLcncFemOCq1pOmRWXqSfg==
+        selected: false
+        status: Unchecked
+      - offset: 1018
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1018
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4CTa/zVzy1UTK/mvcpwDpQfLVsHfdGk/VtWw4iPkeapNtRWSBuDqtEtERpfbJ2Xk
+        selected: false
+        status: Unchecked
+      - offset: 1141
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1141
+        initialized_from_dependency: false
+        encrypted_possible_answer: +mwCwPVsY0sLCN88ubOG+w==
+        selected: false
+        status: Unchecked
+      - offset: 1206
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1206
+        initialized_from_dependency: false
+        encrypted_possible_answer: Qu7shsF+m/+OKkpPMAYcHQ==
+        selected: false
+        status: Unchecked
+      - offset: 1235
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1235
+        initialized_from_dependency: false
+        encrypted_possible_answer: D+zWUqqJduMR4U5F0Vo7nOMz3b/oINPRBrHwhXV0rQX9YQORbQKnK2rDKWL7Xt6L
+        selected: false
+        status: Unchecked
+      - offset: 1345
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1345
+        initialized_from_dependency: false
+        encrypted_possible_answer: +mwCwPVsY0sLCN88ubOG+w==
+        selected: false
+        status: Unchecked
+      - offset: 1421
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1421
+        initialized_from_dependency: false
+        encrypted_possible_answer: gIawsUxxRUj59BUFmhTiuw==
+        selected: false
+        status: Unchecked
+      - offset: 1450
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1450
+        initialized_from_dependency: false
+        encrypted_possible_answer: D+zWUqqJduMR4U5F0Vo7nAW8nZvFHzP4Q7c7OuVY0DuUYDHnfGj2dgLfKVBlnI3r
+        selected: false
+        status: Unchecked
+      - offset: 1586
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1586
+        initialized_from_dependency: false
+        encrypted_possible_answer: +mwCwPVsY0sLCN88ubOG+w==
+        selected: false
+        status: Unchecked
+      - offset: 1656
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1656
+        initialized_from_dependency: false
+        encrypted_possible_answer: qQkBIfYQhtpNT7QVomJkqA==
+        selected: false
+        status: Unchecked
+      - offset: 1685
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1685
+        initialized_from_dependency: false
+        encrypted_possible_answer: TIf9hOpwB+4PVjaE1sCN16+5yDe415Qp9Wx84ih8R7h7yPoIUwv1mUc5iEG5Ak4D
+        selected: false
+        status: Unchecked
+      - offset: 1806
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1806
+        initialized_from_dependency: false
+        encrypted_possible_answer: +mwCwPVsY0sLCN88ubOG+w==
+        selected: false
+        status: Unchecked
+      - offset: 1873
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1873
+        initialized_from_dependency: false
+        encrypted_possible_answer: ElhJvZd0xSbiFwiVwsyDHg==
+        selected: false
+        status: Unchecked
+      - offset: 1902
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1902
+        initialized_from_dependency: false
+        encrypted_possible_answer: TIf9hOpwB+4PVjaE1sCN1zp187YOajaw2rvv+9WF8cAuIvYGlHgTFnY5CMuZOw2N
+        selected: false
+        status: Unchecked
+      - offset: 2017
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2017
+        initialized_from_dependency: false
+        encrypted_possible_answer: +mwCwPVsY0sLCN88ubOG+w==
+        selected: false
+        status: Unchecked
+      - offset: 2090
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2090
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+        selected: false
+        status: Unchecked
+      - offset: 2276
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2276
+        initialized_from_dependency: false
+        encrypted_possible_answer: +mwCwPVsY0sLCN88ubOG+w==
+        selected: false
+        status: Unchecked
+      - offset: 2342
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2342
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: false
+        status: Unchecked
+      - offset: 2371
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2371
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4CTa/zVzy1UTK/mvcpwDpcPB1f3Ol+l3Dh4YWR3Y4UiWoET9qTUN7BTQEdYL22Yg
+        selected: false
+        status: Unchecked
+      - offset: 2483
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2483
+        initialized_from_dependency: false
+        encrypted_possible_answer: +mwCwPVsY0sLCN88ubOG+w==
+        selected: false
+        status: Unchecked
+      - offset: 2552
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2552
+        initialized_from_dependency: false
+        encrypted_possible_answer: MLcncFemOCq1pOmRWXqSfg==
+        selected: false
+        status: Unchecked
+      - offset: 2726
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2726
+        initialized_from_dependency: false
+        encrypted_possible_answer: +mwCwPVsY0sLCN88ubOG+w==
+        selected: false
+        status: Unchecked
+      - offset: 2812
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2812
+        initialized_from_dependency: false
+        encrypted_possible_answer: dsfgJ1Ko3GcHv6EYnVjZu7i2YOpuVe0HkK/MdY3snRwRBEKY8IhDR+geak81O/d7qi7itauTERU+R3wBE8i66g1T7GwIaVpiN1uXVjZ2QQlLHW6Ihg3rceolMXOxN9DiUsAjQqFNrG0Hpd1PqM0uQe2yS/Kmy5+CjLAXwwRmPuF+s+WQYClPAQPIvl00283gUaAwFhMYZHSQT1se09agbA==
+        selected: false
+        status: Unchecked
+      - offset: 2936
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2936
+        initialized_from_dependency: false
+        encrypted_possible_answer: oBPamZNw6cW+sIDFR+Z3sUYlBKxw1Zx37VUH9nf8K/4=
+        selected: false
+        status: Unchecked
+      - offset: 3023
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3023
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFJSJ+QyFf7DfLjMoQFpi9D+cbQ3ue+d5LuD+d6rJeGsP
+        selected: false
+        status: Unchecked
+      - offset: 3114
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3114
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFFwRgYIlxsZXvXCSZvx4a30U9LsoiFfYcM9fCBskS6TpEjq5dgGWWjwpr300LHU8rQ1AEPnw2MH/I9Dw5p+BjVM=
+        selected: false
+        status: Unchecked
+      - offset: 3195
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3195
+        initialized_from_dependency: false
+        encrypted_possible_answer: P3V5h7HBFwLB9SCMW/1hkBjzS3I4W3xwNSMIdUJNZ2I=
+        selected: false
+        status: Unchecked
+      - offset: 3255
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3255
+        initialized_from_dependency: false
+        encrypted_possible_answer: bslCxVvVmd9Z8tEOwvjSIKRPB7dSi/wROs4C2pYxtdc=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
+post_submission_on_open: true

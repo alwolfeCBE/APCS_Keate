@@ -1,0 +1,510 @@
+type: edu
+files:
+  - name: src/Person.java
+    visible: true
+    learner_created: false
+  - name: src/Student.java
+    visible: true
+    learner_created: false
+  - name: src/Teacher.java
+    visible: true
+    placeholders:
+      - offset: 35
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 35
+        initialized_from_dependency: false
+        encrypted_possible_answer: xTttar4JhBTdXhVvoEe7+A==
+        selected: false
+        status: Unchecked
+      - offset: 339
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 339
+        initialized_from_dependency: false
+        encrypted_possible_answer: Ui7uCaW2Sbwtw3TFGDxsEAoDRW+IQzUiCbRNqrQQ8P8=
+        selected: false
+        status: Unchecked
+      - offset: 399
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 399
+        initialized_from_dependency: false
+        encrypted_possible_answer: UWAj9XgzpSQzfzy+lVHnxDPLTVHJuId1rzcquWD/hZghDQKpU6p4Dn7q/7blwFPIDcVtD8NrOsy5yrFP/MsIVw==
+        selected: false
+        status: Unchecked
+      - offset: 447
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 447
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3pV63kJXum/Z7TaRkP1j0A==
+        selected: false
+        status: Unchecked
+      - offset: 483
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 483
+        initialized_from_dependency: false
+        encrypted_possible_answer: EOvThFMbkHvG9qzYyVWmMA==
+        selected: false
+        status: Unchecked
+      - offset: 509
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 509
+        initialized_from_dependency: false
+        encrypted_possible_answer: UmqeXCv7wRIU/lW6XCNeTA==
+        selected: false
+        status: Unchecked
+      - offset: 544
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 544
+        initialized_from_dependency: false
+        encrypted_possible_answer: /+yqJaiiSTsReVSZnnUxwg==
+        selected: false
+        status: Unchecked
+      - offset: 592
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 592
+        initialized_from_dependency: false
+        encrypted_possible_answer: etghV0oYWdcPJvvjLiDSJQ==
+        selected: false
+        status: Unchecked
+      - offset: 642
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 642
+        initialized_from_dependency: false
+        encrypted_possible_answer: UWAj9XgzpSQzfzy+lVHnxKX5qRBbWo+1lU1NwrbEMAM=
+        selected: false
+        status: Unchecked
+      - offset: 668
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 668
+        initialized_from_dependency: false
+        encrypted_possible_answer: etghV0oYWdcPJvvjLiDSJQ==
+        selected: false
+        status: Unchecked
+      - offset: 716
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 716
+        initialized_from_dependency: false
+        encrypted_possible_answer: sVvotKru9SuN0/qpOO6rel/RO6LVRzTpxEKKhL56pQA=
+        selected: false
+        status: Unchecked
+      - offset: 800
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 800
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3pV63kJXum/Z7TaRkP1j0A==
+        selected: false
+        status: Unchecked
+      - offset: 842
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 842
+        initialized_from_dependency: false
+        encrypted_possible_answer: G7QapOMtQjeQBdOky2wlp7SgklHgxd0dNoulfew+Eyw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/CollegeStudent.java
+    visible: true
+    placeholders:
+      - offset: 42
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 42
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9FwOa0PZqYAWZACkAGhCBw==
+        selected: false
+        status: Unchecked
+      - offset: 413
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 413
+        initialized_from_dependency: false
+        encrypted_possible_answer: Ui7uCaW2Sbwtw3TFGDxsEH9pFRPbuHlnO88Tnv3wFO3j2DpNtNPudkWL6WbJy8ZjSwDlWu+WJzcLdk1jzdLjvA==
+        selected: false
+        status: Unchecked
+      - offset: 480
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 480
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2VbLCwgtnBumHHRD9/sfLjPKbVmGcchAlgd8KD0TbQiT8bgBma4Pwkb3mIivaj5P
+        selected: false
+        status: Unchecked
+      - offset: 528
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 528
+        initialized_from_dependency: false
+        encrypted_possible_answer: QdJKDjy4GCR1sGqaRlhoeQ==
+        selected: false
+        status: Unchecked
+      - offset: 561
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 561
+        initialized_from_dependency: false
+        encrypted_possible_answer: FYVLOhtSr8ASTqlAEHM17w==
+        selected: false
+        status: Unchecked
+      - offset: 587
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 587
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3pV63kJXum/Z7TaRkP1j0A==
+        selected: false
+        status: Unchecked
+      - offset: 621
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 621
+        initialized_from_dependency: false
+        encrypted_possible_answer: bP5hu00mrxjacb51U0i0Qw==
+        selected: false
+        status: Unchecked
+      - offset: 670
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 670
+        initialized_from_dependency: false
+        encrypted_possible_answer: etghV0oYWdcPJvvjLiDSJQ==
+        selected: false
+        status: Unchecked
+      - offset: 711
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 711
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2VbLCwgtnBumHHRD9/sfLsHp379T+2TKfMe/4hNpZUE=
+        selected: false
+        status: Unchecked
+      - offset: 737
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 737
+        initialized_from_dependency: false
+        encrypted_possible_answer: etghV0oYWdcPJvvjLiDSJQ==
+        selected: false
+        status: Unchecked
+      - offset: 783
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 783
+        initialized_from_dependency: false
+        encrypted_possible_answer: FisohcFcoZmU+jEhW3oiYj8rIzvXFVoKjoKTQ0uqoVo=
+        selected: false
+        status: Unchecked
+      - offset: 912
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 912
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3pV63kJXum/Z7TaRkP1j0A==
+        selected: false
+        status: Unchecked
+      - offset: 946
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 946
+        initialized_from_dependency: false
+        encrypted_possible_answer: /X0HGCxnWK8BQh54d6rXOMU5a0DukB9uElWGJqyXNaw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/BackToSchoolTests.java
+    visible: false
+    learner_created: false
+  - name: src/PhDStudent.java
+    visible: true
+    placeholders:
+      - offset: 579
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 579
+        initialized_from_dependency: false
+        encrypted_possible_answer: OOd/4c/1rqxBp5MCW93xcrzcYGSml3BqN+OgRfCC0ui4DLQsf4lLfPiw/D5Tw1vsqj+TwTPjLte7/p4up6H6x7af8vZ4Ipic/Vkwd3o9tyE=
+        selected: false
+        status: Unchecked
+      - offset: 642
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 642
+        initialized_from_dependency: false
+        encrypted_possible_answer: qnXx6iHtDLZ0OSbFbteFSxHnneOEULEgUafsncioaDrnP2hUA+zUx8pc6/DI22qXATP7LSCi4t1lxHhaj8wwPtE2HYbWIh2baenbAllHsJT0PuGzSayhjJYQXpr72x2XelbZy+oHTg1byG4H1x4ax5HLH43LDSE4d6Iynh5AD44=
+        selected: false
+        status: Unchecked
+      - offset: 690
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 690
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZgUnPuZw9NvasUoGG7lt8g==
+        selected: false
+        status: Unchecked
+      - offset: 730
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 730
+        initialized_from_dependency: false
+        encrypted_possible_answer: TS+ZTgtzo7m2btEvUgNCB73X8S29FsrpB+CHyO9hSRg=
+        selected: false
+        status: Unchecked
+      - offset: 756
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 756
+        initialized_from_dependency: false
+        encrypted_possible_answer: bitLL4ZN/OMyGYkF9Uz6mQ==
+        selected: false
+        status: Unchecked
+      - offset: 782
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 782
+        initialized_from_dependency: false
+        encrypted_possible_answer: Z/RmqUJmY4YKzCMBSiRumvvvfZMDACZb1yCrV64VtrM=
+        selected: false
+        status: Unchecked
+      - offset: 803
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 803
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZgUnPuZw9NvasUoGG7lt8g==
+        selected: false
+        status: Unchecked
+      - offset: 845
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 845
+        initialized_from_dependency: false
+        encrypted_possible_answer: 44foD03SCOwm5cfL+mdEJCSlY89zIdPfY3Hu/hwPSBI=
+        selected: false
+        status: Unchecked
+      - offset: 894
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 894
+        initialized_from_dependency: false
+        encrypted_possible_answer: YfRJZRQty1O3oRULSQl8+A==
+        selected: false
+        status: Unchecked
+      - offset: 952
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 952
+        initialized_from_dependency: false
+        encrypted_possible_answer: qnXx6iHtDLZ0OSbFbteFSxkg/aSvwBD9Yxi9X3gmIvU=
+        selected: false
+        status: Unchecked
+      - offset: 978
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 978
+        initialized_from_dependency: false
+        encrypted_possible_answer: YfRJZRQty1O3oRULSQl8+A==
+        selected: false
+        status: Unchecked
+      - offset: 1035
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1035
+        initialized_from_dependency: false
+        encrypted_possible_answer: uOYgpyFdzx+pdhNj9d9Z77RKDK84lnFCcsSnrH7wkJ0=
+        selected: false
+        status: Unchecked
+      - offset: 1061
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1061
+        initialized_from_dependency: false
+        encrypted_possible_answer: YfRJZRQty1O3oRULSQl8+A==
+        selected: false
+        status: Unchecked
+      - offset: 1123
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1123
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZFAoi2kCxPyhjJz4dhBPCPruDIhGxhsLAPROOH6Vju4gwt22OnFdQDE+/pszz+fK
+        selected: false
+        status: Unchecked
+      - offset: 1267
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1267
+        initialized_from_dependency: false
+        encrypted_possible_answer: YfRJZRQty1O3oRULSQl8+A==
+        selected: false
+        status: Unchecked
+      - offset: 1314
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1314
+        initialized_from_dependency: false
+        encrypted_possible_answer: Rz1wDOoKBdqyhF+aYAICYFbJWu3XjYkRT6bxC/koJ4E=
+        selected: false
+        status: Unchecked
+      - offset: 1537
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1537
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3pV63kJXum/Z7TaRkP1j0A==
+        selected: false
+        status: Unchecked
+      - offset: 1579
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1579
+        initialized_from_dependency: false
+        encrypted_possible_answer: G7QapOMtQjeQBdOky2wlp0RVh90XNw8lJKGvCYtKA6g=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/StudentRevisited.java
+    visible: true
+    placeholders:
+      - offset: 727
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 727
+        initialized_from_dependency: false
+        encrypted_possible_answer: dFPwC69MpZ57Ap7WfnjXa8GK/vi28BxXLBEv8+uG5XeivkXg0g737YQ8w7jla8PAcAoM9/LzP22cRRtlIaRlGw==
+        selected: false
+        status: Unchecked
+      - offset: 789
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 789
+        initialized_from_dependency: false
+        encrypted_possible_answer: dnIsH9V+HU1rlGUCHJoq3xDfcx0hwfEy9wc1OEMtn7GQ8BSuls7KU15fO9p+CKOe
+        selected: false
+        status: Unchecked
+      - offset: 830
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 830
+        initialized_from_dependency: false
+        encrypted_possible_answer: P7IVPoxkRenBD8cqr8lZWszZlxDQDksz6Z37LfqWaM8=
+        selected: false
+        status: Unchecked
+      - offset: 915
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 915
+        initialized_from_dependency: false
+        encrypted_possible_answer: +XXwJHzwPpwDGClBkCRF5TSdGa6y2Q3jGc2gLuNgnoZIG6hbgJAYWmtl2Smzi39nfXTRD6NZf/vNs9URY5xLbA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
